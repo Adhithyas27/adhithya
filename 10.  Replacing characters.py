@@ -13,7 +13,7 @@ def addFrequencyToCharacter(s):
     print("".join(s))
 if __name__ == '__main__':
      
-    str = "geeks"
+    str = "TAmail"
      
     addFrequencyToCharacter([i for i in str])
      
